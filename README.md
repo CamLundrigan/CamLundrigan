@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im currently a student at Memorial University pursing studies in Math and Computer Science.
+Im a recent graduate from Memorial University who pursued studies in Math and Computer Science.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamLundrigan)](https://github.com/anuraghazra/github-readme-stats)
 <!--
